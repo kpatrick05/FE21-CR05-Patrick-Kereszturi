@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(58, 65, 55);
+}
+
+/* Background color card */
+.bg-card-color {
+    background-color: rgb(26, 27, 26);
+    color: white;
+    font-family: sans-serif;
+}
+
+/* Background color nav */
+.bg-nav-color {
+    background-color: rgb(0, 0, 0);
+}
+/* Footer styling */
+.footer {
+    background-color: rgb(0, 0, 0);
+    height: 100px;
+    color: white;
+}
